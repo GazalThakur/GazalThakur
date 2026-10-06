@@ -31,25 +31,26 @@
 </tr>
 </table>
 
-</div>
+<div align="center">
 
 💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**
 
-<br>
+<br><br>
 
 <a href="https://github.com/GazalThakur">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/gazal-thakur">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://medium.com/@gazalthakur08">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 </div>
 
----
 
 <img align="right"
      src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/idle.gif"
