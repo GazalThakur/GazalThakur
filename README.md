@@ -61,7 +61,7 @@
 I like reading, building things, and getting unnecessarily curious  
 about how stuff works.
 
-🎯 Currently: **DSA & Problem Solving** · **RAG & LLM Applications** · **AI/ML** · **Deep Learning**
+🎯 Currently: **RAG & LLM Applications** · **AI/ML** · **Deep Learning** · **DSA & Problem Solving**
 
 <br clear="right"/>
 
