@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats" alt="Typing SVG" />
 
-
 💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**
 
 <br>
@@ -21,8 +20,23 @@
 
 </div>
 
- 
+---
 
+<img align="right"
+     src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+     width="150"
+     alt="Cat using a laptop"/>
+
+### 🧠 A little about me
+
+I like reading, building things, and getting unnecessarily curious  
+about how stuff works.
+
+🎯 Currently: **DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
+
+<br clear="right"/>
+
+---
 
 <div align="center">
 
@@ -30,6 +44,7 @@
 
 <table border="0">
 <tr>
+
 <td align="center" width="50%">
 
 <sub>💻 Languages</sub><br>
@@ -45,9 +60,11 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="270"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="50%">
 
 <sub>🤖 AI / ML</sub><br>
@@ -63,12 +80,13 @@
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="250"/>
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -85,15 +103,24 @@
 </a>
 
 </div>
+
+---
+
 <div align="center">
 
-🐈 Cat tax
+🐈 <sub><i>Cat tax</i></sub>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="210">
+<br>
 
-My code works. The cat has approved it.
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat using a laptop"/>
+
+<br>
+
+<sub><i>My code works. The cat has approved it.</i></sub>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -102,6 +129,3 @@ My code works. The cat has approved it.
 <img src="https://raw.githubusercontent.com/GazalThakur/GazalThakur/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
-
-
-
