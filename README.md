@@ -4,11 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats" alt="Typing SVG" />
 
-<br>
 
 💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**
 
-<br><br>
+<br>
 
 <a href="https://github.com/GazalThakur">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -19,10 +18,6 @@
 <a href="https://medium.com/@gazalthakur08">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=GazalThakur&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile views" />
 
 </div>
 
@@ -37,7 +32,7 @@
 
 ### 🌱 Currently learning
 
-`Advanced RAG` · `DSA` · `Linux` · `Arch Linux`
+`Advanced RAG` · `DSA` · `Langchain` 
 
 ---
 
@@ -57,5 +52,29 @@ My code works. The cat has approved it.
 
 > I like building things, breaking things,  
 > and then figuring out why they broke.
+
+</div>
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker" />
+
+</div>
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/GazalThakur">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GazalThakur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/GazalThakur">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=GazalThakur&hide_border=true&theme=transparent" />
+</a>
 
 </div>
