@@ -141,12 +141,12 @@ about how stuff works.
 <td align="center" width="30%">
 
 <img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running-right.gif"
-     width="230"
+     width="190"
      alt="Jumping pixel cat"/>
 
 <br>
 
-<sub><i>npm install peace</i></sub>
+<i>npm install peace</i>
 
 </td>
 
