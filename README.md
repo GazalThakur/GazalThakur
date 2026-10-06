@@ -42,7 +42,7 @@ about how stuff works.
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +62,7 @@ about how stuff works.
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="280"/>
 
-</div>
+</div> -->
 
 
 <div align="center">
