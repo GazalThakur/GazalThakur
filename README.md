@@ -36,8 +36,6 @@
 
 📚 Currently sharpening my **DSA & problem-solving** skills
 
-🐧 Slowly entering my **Linux / Arch Linux** era
-
 </td>
 
 <td width="50%" valign="top">
@@ -51,8 +49,6 @@
 🧪 **Experimental ML projects**
 
 🌐 **Full-stack applications**
-
-☕ Probably debugging something that worked five minutes ago
 
 </td>
 </tr>
@@ -73,7 +69,7 @@ My code works. The cat has approved it.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker"width="420" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker" width="420"/>
 
 </div>
 
