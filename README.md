@@ -22,46 +22,6 @@
 </div>
 
 
-### 🧠 Currently building
-
-- 🤖 AI-powered applications
-- 🔎 Retrieval-Augmented Generation systems
-- 🌐 Full-stack products
-- 🧪 Random things that seemed like a good idea at 2 AM
-
-### 🌱 Currently learning
-
-`Advanced RAG` · `DSA` · `Langchain` 
-
-<div align="center">
-
-🐈 Cat tax
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
-
-My code works. The cat has approved it.
-
-</div>
-
-<div align="center">
-
-### ⚡ A little something about me
-
-> I like building things, breaking things,  
-> and then figuring out why they broke.
-
-</div>
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker" />
-
-</div>
-
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -97,6 +57,27 @@ My code works. The cat has approved it.
 </td>
 </tr>
 </table>
+ 
+
+<div align="center">
+
+🐈 Cat tax
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
+
+My code works. The cat has approved it.
+
+</div>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker"width="420" />
+
+</div>
+
+
 
 <div align="center">
 
