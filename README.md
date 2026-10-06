@@ -33,7 +33,7 @@
 
 <div align="center">
 
-💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**
+💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**; 🧠 **Deep Learning**
 
 
 <a href="https://github.com/GazalThakur">
@@ -58,10 +58,8 @@
 
 ### 🧠 A little about me
 
-I like reading, building things, and getting unnecessarily curious  
-about how stuff works.
-
-🎯 Currently: **RAG & LLM Applications** · **AI/ML** · **Deep Learning** · **DSA & Problem Solving**
+I’ve been building AI and full-stack projects, experimenting with RAG and LLM applications, 
+and currently learning more about deep learning, retrieval, and problem solving.
 
 <br clear="right"/>
 
