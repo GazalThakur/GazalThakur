@@ -7,7 +7,7 @@
 
 <td align="center" width="120">
 
-<img src="./assets/running-left.gif"
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
      width="85"
      alt="Waving pixel cat"/>
 
@@ -52,9 +52,10 @@
 
 
 <img align="right"
-     src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
+     src="./assets/running-left.gif"
      width="130"
      alt="Cat using a laptop"/>
+     
 
 ### < A little about me >
 
