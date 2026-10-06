@@ -24,11 +24,12 @@
 
 ---
 
-<div align="center">
+<div>
 
-<table width="85%" border="0">
-<tr>
-<td width="65%" valign="middle">
+<img align="right"
+     src="YOUR_CAT_GIF_URL"
+     width="150"
+     alt="Cat using a laptop"/>
 
 ### 🧠 A little about me
 
@@ -37,25 +38,10 @@ about how stuff works.
 
 🎯 Currently: **DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
 
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<sub>🐈 <i>Cat tax</i></sub>
-
-<br>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="125"/>
-
-<br>
-
-<sub><i>My code works. The cat approved it.</i></sub>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 </div>
+
 
 
  
