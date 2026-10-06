@@ -34,7 +34,6 @@ about how stuff works.
 🎯 Currently:
 **DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
 
-🐈 Also, I like cats.
 
 </div>
  
