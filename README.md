@@ -1,13 +1,35 @@
 <div align="center">
 
 # 👋 Hey, I'm Gazal
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/waving.gif" width="70" />
+<table border="0">
+<tr>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats" alt="Typing SVG" />
+<td align="center" width="120">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif" width="70" />
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/waving.gif"
+     width="85"
+     alt="Waving pixel cat"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&height=80&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats"
+     alt="Typing SVG"/>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/jumping.gif"
+     width="85"
+     alt="Jumping pixel cat"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
