@@ -21,43 +21,20 @@
 
 </div>
 
-
----
-
-<div>
-
-<img align="right"
-     src="YOUR_CAT_GIF_URL"
-     width="150"
-     alt="Cat using a laptop"/>
-
-### 🧠 A little about me
-
-I like reading, building things, and getting unnecessarily curious  
-about how stuff works.
-
-🎯 Currently: **DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
-
-<br clear="right"/>
-
-</div>
-
-
-
  
 
 
-<!-- <div align="center">
+<div align="center">
 
 ## 🛠️ Tech Stack
 
 <sub>💻 Languages</sub>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash" width="330"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash" width="230"/>
 
 <sub>🌐 Web & Backend</sub>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="330"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="230"/>
 
 <sub>🤖 AI / ML</sub>
 
@@ -65,9 +42,9 @@ about how stuff works.
 
 <sub>🗄️ Data & Tools</sub>
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="280"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="180"/>
 
-</div> -->
+</div>
 
 
 <div align="center">
@@ -89,7 +66,7 @@ about how stuff works.
 
 🐈 Cat tax
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="110">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="210">
 
 My code works. The cat has approved it.
 
