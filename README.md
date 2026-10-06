@@ -53,7 +53,7 @@
 
 <img align="right"
      src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
-     width="150"
+     width="130"
      alt="Cat using a laptop"/>
 
 ### < A little about me >
