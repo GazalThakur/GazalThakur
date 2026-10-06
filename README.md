@@ -26,7 +26,11 @@
 
 <div align="center">
 
+<img src="CAT_1" width="80"/>
+&nbsp;&nbsp;&nbsp;
 ### 🧠 A little about me
+&nbsp;&nbsp;&nbsp;
+<img src="CAT_2" width="80"/>
 
 I like reading, building things, and getting unnecessarily curious  
 about how stuff works.
