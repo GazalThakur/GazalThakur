@@ -22,13 +22,9 @@
 </div>
 
 
----
-
----
-
-<table width="100%">
+<table width="100%" border="0">
 <tr>
-<td width="70%" valign="middle">
+<td width="65%" valign="middle">
 
 ### 🧠 A little about me
 
@@ -39,15 +35,22 @@ about how stuff works.
 
 </td>
 
-<td width="30%" align="center" valign="middle">
-<sub><i>🐈 Cat tax</i></sub>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+<td width="35%" align="center" valign="middle">
+
+<sub>🐈 <i>Cat tax</i></sub>
+
+<br>
+
+<img src="YOUR_CAT_GIF_URL" width="125"/>
+
+<br>
 
 <sub><i>My code works. The cat approved it.</i></sub>
 
 </td>
 </tr>
 </table>
+
 
  
 
