@@ -39,7 +39,15 @@ about how stuff works.
 </div>
  
 
+<div align="center">
 
+🐈 Cat tax
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
+
+My code works. The cat has approved it.
+
+</div>
 
 
 <!-- <div align="center">
@@ -83,10 +91,11 @@ about how stuff works.
 
 <div align="center">
 
-🐈 Cat tax
+## 🐍 Contribution Snake
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
-
-My code works. The cat has approved it.
+<img src="https://raw.githubusercontent.com/GazalThakur/GazalThakur/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
+---
+
