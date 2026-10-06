@@ -140,13 +140,13 @@ about how stuff works.
 
 <td align="center" width="30%">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/jumping.gif"
-     width="180"
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running-right.gif"
+     width="230"
      alt="Jumping pixel cat"/>
 
 <br>
 
-<sub><i>just vibing while you debug</i></sub>
+<sub><i>npm install peace</i></sub>
 
 </td>
 
