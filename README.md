@@ -24,18 +24,34 @@
 
 ---
 
-<div align="center">
+---
+
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
 ### 🧠 A little about me
 
 I like reading, building things, and getting unnecessarily curious  
 about how stuff works.
 
-🎯 Currently:
-**DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
+🎯 Currently: **DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
 
+</td>
 
-</div>
+<td width="30%" align="center" valign="middle">
+
+<img src="YOUR_CAT_GIF_URL" width="150"/>
+
+<br>
+
+<sub><i>My code works. The cat approved it.</i></sub>
+
+</td>
+</tr>
+</table>
+
+---
  
 
 
@@ -77,15 +93,7 @@ about how stuff works.
 </a>
 
 </div>
-<div align="center">
 
-🐈 Cat tax
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="110">
-
-My code works. The cat has approved it.
-
-</div>
 
 <div align="center">
 
