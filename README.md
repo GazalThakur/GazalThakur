@@ -60,6 +60,44 @@ My code works. The cat has approved it.
 
 </div>
 
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 About Me
+
+🎓 Computer Science & Engineering student at **TIET**
+
+🤖 Interested in **AI/ML, RAG & intelligent systems**
+
+💻 I enjoy building things across the **AI + full-stack** space
+
+📚 Currently sharpening my **DSA & problem-solving** skills
+
+🐧 Slowly entering my **Linux / Arch Linux** era
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔭 Currently Building
+
+🤖 **AI-powered applications**
+
+🔎 **Retrieval-Augmented Generation systems**
+
+🧪 **Experimental ML projects**
+
+🌐 **Full-stack applications**
+
+☕ Probably debugging something that worked five minutes ago
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 ## 📊 GitHub Stats
