@@ -56,7 +56,7 @@
      width="150"
      alt="Cat using a laptop"/>
 
-### 🧠 A little about me
+### < A little about me >
 
 I’ve been building AI and full-stack projects, experimenting with RAG and LLM applications, 
 and currently learning more about deep learning, retrieval, and problem solving.
