@@ -40,10 +40,8 @@ about how stuff works.
 </td>
 
 <td width="30%" align="center" valign="middle">
-
-<img src="YOUR_CAT_GIF_URL" width="150"/>
-
-<br>
+<sub><i>🐈 Cat tax</i></sub>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
 
 <sub><i>My code works. The cat approved it.</i></sub>
 
@@ -51,7 +49,6 @@ about how stuff works.
 </tr>
 </table>
 
----
  
 
 
@@ -93,7 +90,15 @@ about how stuff works.
 </a>
 
 </div>
+<div align="center">
 
+🐈 Cat tax
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="110">
+
+My code works. The cat has approved it.
+
+</div>
 
 <div align="center">
 
