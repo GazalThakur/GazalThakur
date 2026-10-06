@@ -28,11 +28,9 @@
 
 ### 🧠 About Me
 
-🎓 Computer Science & Engineering student at **TIET**
+🎓 Computer Science & Engineering student 
 
 🤖 Interested in **AI/ML, RAG & intelligent systems**
-
-💻 I enjoy building things across the **AI + full-stack** space
 
 📚 Currently sharpening my **DSA & problem-solving** skills
 
