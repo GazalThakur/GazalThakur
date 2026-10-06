@@ -28,23 +28,46 @@
 
 ## 🛠️ Tech Stack
 
-<sub>💻 Languages</sub>
+<table border="0">
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash" width="230"/>
+<sub>💻 Languages</sub><br>
 
-<sub>🌐 Web & Backend</sub>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash" width="270"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="230"/>
+</td>
 
-<sub>🤖 AI / ML</sub>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" width="110"/>
+<sub>🌐 Web & Backend</sub><br>
 
-<sub>🗄️ Data & Tools</sub>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="270"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="180"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<sub>🤖 AI / ML</sub><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" width="120"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<sub>🗄️ Data & Tools</sub><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="250"/>
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 
 <div align="center">
