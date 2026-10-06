@@ -20,7 +20,7 @@
 
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 
 <img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/jumping.gif"
      width="85"
@@ -141,7 +141,7 @@ about how stuff works.
 <td align="center" width="30%">
 
 <img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running-right.gif"
-     width="190"
+     width="180"
      alt="Jumping pixel cat"/>
 
 <br>
