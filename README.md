@@ -61,7 +61,7 @@
 I like reading, building things, and getting unnecessarily curious  
 about how stuff works.
 
-🎯 Currently: **DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
+🎯 Currently: **DSA & Problem Solving** · **RAG & LLM Applications** · **AI/ML**
 
 <br clear="right"/>
 
