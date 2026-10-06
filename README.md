@@ -121,6 +121,11 @@ about how stuff works.
 
 ## 📊 GitHub Stats
 
+<table border="0">
+<tr>
+
+<td align="center" width="70%">
+
 <a href="https://github.com/GazalThakur">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=GazalThakur&show_icons=true&hide_border=true&title_color=7C3AED&text_color=C4B5FD&icon_color=A78BFA&bg_color=0D1117" />
@@ -131,21 +136,22 @@ about how stuff works.
        src="https://streak-stats.demolab.com/?user=GazalThakur&hide_border=true&theme=transparent&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=64748B" />
 </a>
 
-</div>
+</td>
 
----
+<td align="center" width="30%">
 
-<div align="center">
-
-🐈 <sub><i>Cat tax</i></sub>
-
-<br>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat using a laptop"/>
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/jumping.gif"
+     width="180"
+     alt="Jumping pixel cat"/>
 
 <br>
 
-<sub><i>My code works. The cat has approved it.</i></sub>
+<sub><i>just vibing while you debug</i></sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
