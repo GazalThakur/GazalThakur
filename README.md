@@ -22,40 +22,19 @@
 </div>
 
 
+---
+
 <div align="center">
 
-<table width="85%">
-<tr>
-<td width="50%" valign="top">
+### 🧠 A little about me
 
-### 🧠 About Me
+I like reading, building things, and getting unnecessarily curious  
+about how stuff works.
 
-📚 I like reading, building, and going down random technical rabbit holes.
+🎯 Currently:
+**DSA** · **AI / RAG** · **Linux** · **random technical rabbit holes**
 
-💡 I enjoy taking an idea from  
-*"this could be cool"* → *"wait, it actually works."*
-
-🎯 Currently focused on becoming a better engineer, one bug at a time.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 What I'm Into
-
-🔎 **Retrieval & AI systems**
-
-🧩 **Problem solving & DSA**
-
-🖥️ **Linux & systems**
-
-🧪 **Experimenting with new ideas**
-
-🐈 **Cats. Obviously.**
-
-</td>
-</tr>
-</table>
+🐈 Also, I like cats.
 
 </div>
  
@@ -70,14 +49,29 @@ My code works. The cat has approved it.
 
 </div>
 
+---
+
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker" width="220"/>
+<sub>💻 Languages</sub>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash" width="130"/>
+
+<sub>🌐 Web & Backend</sub>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="130"/>
+
+<sub>🤖 AI / ML</sub>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" width="110"/>
+
+<sub>🗄️ Data & Tools</sub>
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="120"/>
 
 </div>
-
 
 
 <div align="center">
