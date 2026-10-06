@@ -23,7 +23,7 @@
 ---
 
 <img align="right"
-     src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+     src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/idle.gif"
      width="150"
      alt="Cat using a laptop"/>
 
