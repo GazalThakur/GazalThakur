@@ -21,7 +21,6 @@
 
 </div>
 
----
 
 ### 🧠 Currently building
 
@@ -33,8 +32,6 @@
 ### 🌱 Currently learning
 
 `Advanced RAG` · `DSA` · `Langchain` 
-
----
 
 <div align="center">
 
@@ -54,7 +51,6 @@ My code works. The cat has approved it.
 > and then figuring out why they broke.
 
 </div>
----
 
 <div align="center">
 
@@ -63,18 +59,19 @@ My code works. The cat has approved it.
 <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker" />
 
 </div>
----
 
 <div align="center">
 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/GazalThakur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GazalThakur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=GazalThakur&show_icons=true&hide_border=true&title_color=7C3AED&text_color=C4B5FD&icon_color=A78BFA&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/GazalThakur">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=GazalThakur&hide_border=true&theme=transparent" />
+  <img height="180em"
+       src="https://streak-stats.demolab.com/?user=GazalThakur&hide_border=true&theme=transparent&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=64748B" />
 </a>
 
 </div>
