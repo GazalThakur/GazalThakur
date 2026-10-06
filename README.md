@@ -2,20 +2,27 @@
 
 # 👋 Hey, I'm Gazal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats" alt="Typing SVG" />
 
 <br>
 
-💻 **Computer Engineering** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**
+💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**
 
 <br><br>
 
 <a href="https://github.com/GazalThakur">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/gazal-thakur">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://medium.com/@gazalthakur08">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GazalThakur&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile views" />
 
 </div>
 
@@ -33,6 +40,16 @@
 `Advanced RAG` · `DSA` · `Linux` · `Arch Linux`
 
 ---
+
+<div align="center">
+
+🐈 Cat tax
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
+
+My code works. The cat has approved it.
+
+</div>
 
 <div align="center">
 
