@@ -22,7 +22,11 @@
 </div>
 
 
-<table width="100%" border="0">
+---
+
+<div align="center">
+
+<table width="85%" border="0">
 <tr>
 <td width="65%" valign="middle">
 
@@ -41,7 +45,7 @@ about how stuff works.
 
 <br>
 
-<img src="YOUR_CAT_GIF_URL" width="125"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="125"/>
 
 <br>
 
@@ -50,6 +54,8 @@ about how stuff works.
 </td>
 </tr>
 </table>
+
+</div>
 
 
  
