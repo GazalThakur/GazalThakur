@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Gazal
+# 👋 Hello, I'm Gazal Thakur
 
 <table border="0">
 <tr>
