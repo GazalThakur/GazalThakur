@@ -39,17 +39,8 @@ about how stuff works.
 </div>
  
 
-<div align="center">
 
-🐈 Cat tax
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
-
-My code works. The cat has approved it.
-
-</div>
-
----
 
 <div align="center">
 
@@ -57,11 +48,11 @@ My code works. The cat has approved it.
 
 <sub>💻 Languages</sub>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash" width="130"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash" width="330"/>
 
 <sub>🌐 Web & Backend</sub>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="130"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express" width="330"/>
 
 <sub>🤖 AI / ML</sub>
 
@@ -69,7 +60,7 @@ My code works. The cat has approved it.
 
 <sub>🗄️ Data & Tools</sub>
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="120"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,linux" width="280"/>
 
 </div>
 
@@ -87,5 +78,15 @@ My code works. The cat has approved it.
   <img height="180em"
        src="https://streak-stats.demolab.com/?user=GazalThakur&hide_border=true&theme=transparent&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=64748B" />
 </a>
+
+</div>
+
+<div align="center">
+
+🐈 Cat tax
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
+
+My code works. The cat has approved it.
 
 </div>
