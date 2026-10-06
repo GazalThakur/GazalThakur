@@ -7,7 +7,7 @@
 
 <td align="center" width="120">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/waving.gif"
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
      width="85"
      alt="Waving pixel cat"/>
 
@@ -15,7 +15,7 @@
 
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&height=80&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats"
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&height=80&lines=Computer+Science+%26+Engineering+Student;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats"
      alt="Typing SVG"/>
 
 </td>
