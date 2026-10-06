@@ -7,7 +7,7 @@
 
 <td align="center" width="120">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
+<img src="./assets/waving.gif"
      width="85"
      alt="Waving pixel cat"/>
 
@@ -22,7 +22,7 @@
 
 <td align="center" width="130">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/jumping.gif"
+<img src="./assets/running-left.gif"
      width="85"
      alt="Jumping pixel cat"/>
 
@@ -52,8 +52,8 @@
 
 
 <img align="right"
-     src="./assets/running-left.gif"
-     width="130"
+     src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
+     width="120"
      alt="Cat using a laptop"/>
      
 
