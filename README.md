@@ -7,7 +7,7 @@
 
 <td align="center" width="120">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
+<img src="./assets/running-left.gif"
      width="85"
      alt="Waving pixel cat"/>
 
@@ -52,7 +52,7 @@
 
 
 <img align="right"
-     src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/idle.gif"
+     src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif"
      width="150"
      alt="Cat using a laptop"/>
 
@@ -138,7 +138,7 @@ and currently learning more about deep learning, retrieval, and problem solving.
 
 <td align="center" width="30%">
 
-<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running-right.gif"
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/idle.gif"
      width="180"
      alt="Jumping pixel cat"/>
 
