@@ -22,35 +22,42 @@
 </div>
 
 
-<table>
+<div align="center">
+
+<table width="85%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 About Me
 
-🎓 Computer Science & Engineering student 
+📚 I like reading, building, and going down random technical rabbit holes.
 
-🤖 Interested in **AI/ML, RAG & intelligent systems**
+💡 I enjoy taking an idea from  
+*"this could be cool"* → *"wait, it actually works."*
 
-📚 Currently sharpening my **DSA & problem-solving** skills
+🎯 Currently focused on becoming a better engineer, one bug at a time.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔭 Currently Building
+### 🎯 What I'm Into
 
-🤖 **AI-powered applications**
+🔎 **Retrieval & AI systems**
 
-🔎 **Retrieval-Augmented Generation systems**
+🧩 **Problem solving & DSA**
 
-🧪 **Experimental ML projects**
+🖥️ **Linux & systems**
 
-🌐 **Full-stack applications**
+🧪 **Experimenting with new ideas**
+
+🐈 **Cats. Obviously.**
 
 </td>
 </tr>
 </table>
+
+</div>
  
 
 <div align="center">
@@ -67,7 +74,7 @@ My code works. The cat has approved it.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker" width="420"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,docker" width="220"/>
 
 </div>
 
