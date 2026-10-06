@@ -1,8 +1,15 @@
 <div align="center">
 
 # 👋 Hey, I'm Gazal
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/waving.gif" width="70" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student+%40+TIET;AI%2FML+%26+RAG+Enthusiast;Building+things+with+AI;Occasionally+breaking+things+too+%F0%9F%98%AD;I+like+cats" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/Tinsiag/YueXinMiaoPet/main/running.gif" width="70" />
+
+</div>
 
 💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**
 
