@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
+<br>
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=GazalThakur&label=Profile+Views&color=7C3AED&style=flat"
      alt="Profile views"/>
