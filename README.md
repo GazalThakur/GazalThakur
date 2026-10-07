@@ -33,7 +33,7 @@
 
 <div align="center">
 
-💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**; 🧠 **Deep Learning**
+💻 **Computer Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🔎 **RAG** &nbsp;•&nbsp; 🌐 **Full-Stack**&nbsp;•&nbsp; 🧠 **Deep Learning**
 
 
 <a href="https://github.com/GazalThakur">
@@ -49,6 +49,8 @@
 </a>
 
 </div>
+<img src="https://komarev.com/ghpvc/?username=GazalThakur&label=Profile+Views&color=7C3AED&style=flat"
+     alt="Profile views"/>
 
 
 <img align="right"
