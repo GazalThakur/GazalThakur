@@ -37,23 +37,23 @@
 
 
 <a href="https://github.com/GazalThakur">
-  <img src="https://img.shields.io/badge/GitHub-171923?style=flat-square&logo=github&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/GitHub-171923?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/gazal-thakur">
-  <img src="https://img.shields.io/badge/LinkedIn-171923?style=flat-square&logo=linkedin&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/LinkedIn-171923?style=flat-square&logo=linkedin&logoColor=%230A66C2" />
 </a>
 
 <a href="https://medium.com/@gazalthakur08">
-  <img src="https://img.shields.io/badge/Kaggle-171923?style=flat-square&logo=kaggle&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/Medium-171923?style=flat-square&logo=medium&logoColor=white" />
 </a>
 
 <a href="https://www.kaggle.com/gazalthakur">
-  <img src="https://img.shields.io/badge/LeetCode-171923?style=flat-square&logo=leetcode&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/Kaggle-171923?style=flat-square&logo=kaggle&logoColor=%2320BEFF" />
 </a>
 
 <a href="https://leetcode.com/u/_z_th/">
-  <img src="https://img.shields.io/badge/Medium-171923?style=flat-square&logo=medium&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/LeetCode-171923?style=flat-square&logo=leetcode&logoColor=%23FFA116" />
 </a>
 
 <br>
